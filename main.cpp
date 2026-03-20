@@ -15,7 +15,7 @@ void ToLower(char* string, int n){
 }
 
 int main(){
-	char string[7] = "sTrINg";
+	char string[11] = "sTrINg11..";
 	printf("Start: %s\n", string);
 
 	ToUpper(string, 6);
