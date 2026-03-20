@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// asd
+
 void ToUpper(char* string, int n){
 	for (int i = 0; i < n; i++){
 		if (string[i] >= 'a' && string[i] <= 'z')
